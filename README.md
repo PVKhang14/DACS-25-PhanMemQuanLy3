@@ -65,20 +65,5 @@ yarn lint
 yarn lint:fix
 ```
 
-## 4. Cấu hình cơ sở dữ liệu
-Chỉnh sửa file `application.properties` hoặc `application.yml` trong backend để cấu hình kết nối cơ sở dữ liệu. Ví dụ với MySQL:
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-spring.jpa.hibernate.ddl-auto=update
-```
-
-## 5. API Endpoints (Ví dụ)
-- `POST /api/auth/login` - Đăng nhập
-- `POST /api/auth/register` - Đăng ký
-- `GET /api/books` - Lấy danh sách sách
-- `POST /api/orders` - Đặt hàng
-
-## 6. Thông tin thêm
+## 4. Thông tin thêm
 Nếu có bất kỳ vấn đề nào trong quá trình cài đặt, hãy kiểm tra lại các bước hoặc liên hệ với nhóm phát triển để được hỗ trợ.
