@@ -1,4 +1,4 @@
-# Ứng dụng Quản lý Bán Sách Trực Tuyến
+# Phần Mềm Quản Lý 3: Ứng dụng quản lý bán sách trực tuyến trên nền Web
 
 ## 1. Giới thiệu
 Ứng dụng quản lý bán sách trực tuyến được xây dựng trên nền tảng Web, sử dụng Spring Boot cho backend và ReactJS cho frontend. Dự án giúp người dùng có thể mua sách trực tuyến, quản lý đơn hàng, quản lý thông tin cá nhân, và hỗ trợ admin trong việc quản lý nội dung.
